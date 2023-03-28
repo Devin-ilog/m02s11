@@ -12,6 +12,13 @@ export const GlobalStyles = createGlobalStyle`
     box-sizing: border-box;
     font-family: sans-serif;
   }
+
+  .App {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
 `;
 
 export const temaUm = {

@@ -16,9 +16,9 @@ function App() {
         <h1>m02s11 - bootstrap</h1>
 
         <div className="d-flex justify-content-between">
-          <Button>BOTÃO COM ESTILOS</Button>
+          <Button>StyledComponent</Button>
 
-          <ButtonBoostrap variant="danger">Botão do Bootstrap</ButtonBoostrap>
+          <ButtonBoostrap variant="primary">Botão do Bootstrap</ButtonBoostrap>
 
           <Alert>Alerta bootstrap!</Alert>
         </div>

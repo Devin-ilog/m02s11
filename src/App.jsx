@@ -13,7 +13,7 @@ function App() {
   return (
     <ThemeProvider theme={isDark ? temaDois : temaUm}>
       <div className="App">
-        <h1>m02s11 - bootstrap</h1>
+        <h1>m02s11 - Tá no AR</h1>
 
         <div className="d-flex justify-content-between">
           <Button>StyledComponent</Button>
